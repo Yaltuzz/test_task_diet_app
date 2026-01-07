@@ -38,6 +38,7 @@ dependencies:
   flutter_riverpod: ^2.6.1
 
 dev_dependencies:
+  flutter_junit_report: ^1.0.0
   flutter_test:
     sdk: flutter
 
